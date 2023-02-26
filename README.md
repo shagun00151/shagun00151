@@ -1,6 +1,6 @@
 ![logo](https://repository-images.githubusercontent.com/227755997/3171d680-1d98-11ea-9bfd-51ba32490a41)
 <h1 align="center">Hi 👋, I'm Shagun Sirohi</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">Data Science Enthusiast from India</h3>
 
 <img align = "right" alt="coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif">
 
