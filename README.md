@@ -1,4 +1,4 @@
-![logo]("https://cloud.google.com/blog/products/ai-machine-learning/how-steel-distributor-reinvents-its-data-science-ml-workflows-vertex-ai")
+("https://www.passionateinmarketing.com/wp-content/uploads/2021/08/data_analytics_banner.png")
 <h1 align="center">Hi 👋, I'm Shagun Sirohi</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 
