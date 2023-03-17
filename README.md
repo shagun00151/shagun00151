@@ -1,4 +1,4 @@
-![logo]("https://cloud.google.com/blog/products/ai-machine-learning/how-steel-distributor-reinvents-its-data-science-ml-workflows-vertex-ai")
+![logo](https://cloud.google.com/blog/products/ai-machine-learning/how-steel-distributor-reinvents-its-data-science-ml-workflows-vertex-ai)
 <h1 align="center">Hi 👋, I'm Shagun Sirohi</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 
