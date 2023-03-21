@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Hyperparameter tuning and Data augmentation**
 
-- 🌱 I’m currently learning **Convulational Neural Network**
+- 🌱 I’m currently learning **LSTM Neural Network**
 
 - 📫 How to reach me **sirohishagun001@gmail.com**
 
